@@ -6,5 +6,6 @@ public class Exemple {
 		System.out.println("lulu is cute");
 		System.out.println("mimi");
 		System.out.println("mimiedit 0717 15:25");
+		System.out.println("lulu likes 青花瓷");
 	}
 }
